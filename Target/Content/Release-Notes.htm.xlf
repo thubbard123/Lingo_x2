@@ -52,7 +52,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Accepted"
-            MadCap:matchPercent="0">werte</mrk></target></trans-unit><trans-unit
+            MadCap:matchPercent="0">asdfwerte</mrk></target></trans-unit><trans-unit
         id="2"
         restype="x-xml-p"
         phase-name="pretrans"><source>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</source><seg-source><mrk
