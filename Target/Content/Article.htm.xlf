@@ -64,11 +64,11 @@
               id="1"
               ctype="bold" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;b&gt;</bpt>Article #:<ept
               id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/b&gt;</ept> Article Number</mrk></seg-source><target
-          state="needs-translation"><mrk
+          state="translated"><mrk
             mtype="seg"
             mid="1"
-            MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:segmentStatus="Accepted"
+            MadCap:matchPercent="0">asdfasf</mrk></target></trans-unit><trans-unit
         id="3"
         restype="x-xml-td"
         phase-name="pretrans"><source><bpt
