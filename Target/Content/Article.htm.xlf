@@ -84,7 +84,7 @@
             mtype="seg"
             mid="1"
             MadCap:segmentStatus="Untranslated"
-            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+            MadCap:matchPercent="0">as</mrk></target></trans-unit><trans-unit
         id="4"
         restype="x-xml-td"
         phase-name="pretrans"><source><bpt
